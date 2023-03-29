@@ -1,8 +1,6 @@
 <h2> Hi there, I'm Chun! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<div align=center>
-  <h5 align="" font-size-"23">Technologies and Tools </h5><img src="https://media.giphy.com/media/ujeTx8j89bvzCfOH38/giphy.gif" width="50">
-</div>
+ <h2 align="" font-size-"23">Technologies and Tools </h2><img src="https://media.giphy.com/media/ujeTx8j89bvzCfOH38/giphy.gif" width="50">
 <br>
 <div align=center>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
