@@ -35,7 +35,7 @@
 <span><img src="https://img.shields.io/badge/Adobe Premiere Pro-282C34?logo=adobepremierepro&logoColor=9999FF" alt="Adobe Premiere Pro logo" title="Adobe Premiere Pro" height="25" /></span>
 &nbsp;
 <br>
-
+<br>
 
 <div align=center>
   <b align="center" font-size-"23">Where to find me? </b><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdlYzViYmE4NWRlNDg0M2YxNTI4ZjI4N2QzN2E3MjUxZmY4MDQ5MyZjdD1z/EDI4u70iO5nZqWBLa5/giphy.gif" width="50">
