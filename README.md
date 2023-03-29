@@ -1,6 +1,6 @@
 <h2> Hi there, I'm Chun! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
- <h2 align="" font-size-"23">Technologies and Tools </h2><img src="https://media.giphy.com/media/ujeTx8j89bvzCfOH38/giphy.gif" width="50">
+ <h3 align="" font-size-"23">Technologies and Tools <img src="https://media.giphy.com/media/ujeTx8j89bvzCfOH38/giphy.gif" width="50"></h3>
 <br>
 <div align=center>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -46,8 +46,9 @@
   </a>
 </div>
 <br>
+
 <div align=center>
-  <h5 align="" font-size-"23">Where to find me? </h5><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdlYzViYmE4NWRlNDg0M2YxNTI4ZjI4N2QzN2E3MjUxZmY4MDQ5MyZjdD1z/EDI4u70iO5nZqWBLa5/giphy.gif" width="50">
+  <h3 align="" font-size-"23">Where to find me? <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdlYzViYmE4NWRlNDg0M2YxNTI4ZjI4N2QzN2E3MjUxZmY4MDQ5MyZjdD1z/EDI4u70iO5nZqWBLa5/giphy.gif" width="50"></h3>
 </div>
 <br>
 <div align="center">
