@@ -56,7 +56,7 @@
 
 
 <div align=center>
-  <b align="center" font-size-"23">My Favorites Quote</b><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRmMGZmMGZiZTA4ZDE4YjIwMDcyNjc1OWQ0NmMyMDRmOWZjYTdhNyZjdD1z/t4XOMsxdxOvd6dAu91/giphy.gif" width="50">
+  <b align="center" font-size-"23">My Favorites Quote</b><img src="https://media.giphy.com/media/Yr6HwTSQDBt1j5Ou5W/giphy.gif" width="50">
 </div>
 <br>
 <div class="container" align=center>
@@ -64,7 +64,7 @@
   <div class="">Chunjiss</div>
 </div>
 <br>
-
+<br>
 <div align=center>
   <a href="#" title="chunjiss">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunjiss&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
