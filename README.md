@@ -36,8 +36,7 @@
 &nbsp;
 <br>
 <br>
-<br>
-<br>
+
 <div align=center>
   <b align="center" font-size-"23">Where to find me?</b>
 </div>
@@ -55,8 +54,6 @@
 </div>
 <br>
 <br>
-<br>
-<br>
 
 <div align=center>
   <a href="#" title="chunjiss">
@@ -66,8 +63,6 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=chunjiss&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
-<br>
-<br>
 <br>
 <br>
 
