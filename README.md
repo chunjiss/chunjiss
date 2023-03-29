@@ -1,6 +1,5 @@
 <h2> Hi there, I'm Chun! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
@@ -56,6 +55,9 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="email" />
   </a>
 </div>
+
+
+<h2 align="center"></h2>
 <div align=center>
   <a href="#" title="chunjiss">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunjiss&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
