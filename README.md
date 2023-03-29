@@ -1,6 +1,6 @@
 <h2> Hi there, I'm Chun! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<strong align="center">🛠 Technologies and Tools 🛠</strong>
+<b align="center">🛠 Technologies and Tools 🛠</b>
 <br>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
