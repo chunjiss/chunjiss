@@ -35,7 +35,9 @@
 <span><img src="https://img.shields.io/badge/Adobe Premiere Pro-282C34?logo=adobepremierepro&logoColor=9999FF" alt="Adobe Premiere Pro logo" title="Adobe Premiere Pro" height="25" /></span>
 &nbsp;
 <br>
-
+<br>
+<br>
+<br>
 <div align=center>
   <b align="center" font-size-"23">Where to find me?</b>
 </div>
@@ -52,6 +54,9 @@
   </a>
 </div>
 <br>
+<br>
+<br>
+<br>
 
 <div align=center>
   <a href="#" title="chunjiss">
@@ -62,7 +67,9 @@
   </a>
 </div>
 <br>
-
+<br>
+<br>
+<br>
 
 <div align=center>
   <b align="center" font-size-"23">My Favorites Quote</b>
