@@ -1,7 +1,7 @@
 <h2> Hi there, I'm Chun! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <div align=center>
-  <b align="center" font-size-"23">Technologies and Tools</b>
+  <b align="center" font-size-"23">Technologies and Tools</b><img src="https://media.giphy.com/media/qAwL4XhCeuJR5qDTmo/giphy.gif" width="50">
 </div>
 <br>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -35,7 +35,15 @@
 <span><img src="https://img.shields.io/badge/Adobe Premiere Pro-282C34?logo=adobepremierepro&logoColor=9999FF" alt="Adobe Premiere Pro logo" title="Adobe Premiere Pro" height="25" /></span>
 &nbsp;
 <br>
+
+<div align=center>
+  <b align="center" font-size-"23">My Favorites Quote</b><img src="https://media.giphy.com/media/t4XOMsxdxOvd6dAu91/giphy.gif" width="50">
+</div>
 <br>
+<div class="container" align=center>
+  <div class="">"Amidst so many disparities, Please don't be weakness"</div>
+  <div class="">Chunjiss</div>
+</div>
 
 <div align=center>
   <b align="center" font-size-"23">Where to find me? </b><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdlYzViYmE4NWRlNDg0M2YxNTI4ZjI4N2QzN2E3MjUxZmY4MDQ5MyZjdD1z/EDI4u70iO5nZqWBLa5/giphy.gif" width="50">
@@ -53,24 +61,8 @@
   </a>
 </div>
 <br>
-<br>
 
-<div align=center>
-  <a href="#" title="chunjiss">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunjiss&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="chunjiss">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=chunjiss&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
-<br>
-<br>
 
-<div align=center>
-  <b align="center" font-size-"23">My Favorites Quote</b>
-</div>
-<br>
-<div class="container" align=center>
-  <div class="">"Amidst so many disparities, Please don't be weakness"</div>
-  <div class="">Chunjiss</div>
-</div>
+
+
+
