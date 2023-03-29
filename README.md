@@ -38,7 +38,7 @@
 <br>
 
 <div align=center>
-  <b align="center" font-size-"23">Where to find me? <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdlYzViYmE4NWRlNDg0M2YxNTI4ZjI4N2QzN2E3MjUxZmY4MDQ5MyZjdD1z/EDI4u70iO5nZqWBLa5/giphy.gif" width="50"></b>
+  <b align="center" font-size-"23">Where to find me? </b><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdlYzViYmE4NWRlNDg0M2YxNTI4ZjI4N2QzN2E3MjUxZmY4MDQ5MyZjdD1z/EDI4u70iO5nZqWBLa5/giphy.gif" width="50">
 </div>
 <br>
 <div align="center">
