@@ -1,7 +1,7 @@
 <h2> Hi there, I'm Chun! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <div align=center>
-  <b align="center" font-size-"23">Technologies and Tools</b><img src="https://media.giphy.com/media/qAwL4XhCeuJR5qDTmo/giphy.gif" width="50">
+  <b align="center" font-size-"23">Technologies and Tools</b><img src="https://media.giphy.com/media/ujeTx8j89bvzCfOH38/giphy.gif" width="50">
 </div>
 <br>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -56,7 +56,7 @@
 
 
 <div align=center>
-  <b align="center" font-size-"23">My Favorites Quote</b><img src="https://media.giphy.com/media/Yr6HwTSQDBt1j5Ou5W/giphy.gif" width="50">
+  <b align="center" font-size-"23">My Favorites Quote</b><img src="https://media.giphy.com/media/WWZhcR4X7egGUY28sY/giphy.gif" width="50">
 </div>
 <br>
 <div class="container" align=center>
