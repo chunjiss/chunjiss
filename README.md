@@ -45,6 +45,7 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=chunjiss&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
+<br>
 
 <div align=center>
   <h3 align="" font-size-"23">Where to find me? <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdlYzViYmE4NWRlNDg0M2YxNTI4ZjI4N2QzN2E3MjUxZmY4MDQ5MyZjdD1z/EDI4u70iO5nZqWBLa5/giphy.gif" width="50"></h3>
