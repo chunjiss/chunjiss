@@ -1,7 +1,7 @@
 <h2> Hi there, I'm Chun! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <div align=center>
-  <b align="center" font-size-"23">🛠 Technologies and Tools 🛠</b>
+  <b align="center" font-size-"23">Technologies and Tools</b>
 </div>
 <br>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -14,17 +14,25 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/.NET-282C34?logo=.NET&logoColor=512BD4" alt=".NET logo" title=".NET" height="25" /></span>
 &nbsp;
-
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" alt="C logo" title="C" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/AdobePremierePro-282C34?logo=adobepremierepro&logoColor=7952B3" alt="Adobe Premiere Pro logo" title="Adobe Premiere Pro" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C++-282C34?logo=C++&logoColor=00599C" alt="C++ logo" title="C++" height="25" /></span>
 &nbsp;
-
-<span><img src="https://img.shields.io/badge/Adobe-282C34?logo=adobe&logoColor=FF0000" alt="Adobe logo" title="Adobe" height="25" /></span>
+<span><img src="https://img.shields.io/badge/SublimeText-282C34?logo=sublimetext&logoColor=FF9800" alt="Sublime Text logo" title="Sublime Text" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Oracle-282C34?logo=microsoft-sql-server&logoColor=F80000" alt="Oracle logo" title="Oracle" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Adobe-282C34?logo=adobe&logoColor=FF0000" alt="Adobe logo" title="Adobe" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Adobe Premiere Pro-282C34?logo=adobepremierepro&logoColor=9999FF" alt="Adobe Premiere Pro logo" title="Adobe Premiere Pro" height="25" /></span>
 &nbsp;
 
 <div align=center>
