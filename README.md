@@ -52,7 +52,7 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://facebook.com/Chunjiss" target="blank">
+  <a href="https://facebook.com/TuilaChundayy" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="facebook" />
   </a>
   <a href="https://instagram.com/chunjiss" target="blank">
