@@ -94,19 +94,6 @@
   </a>
 </div>
 <br>
-      <!-- 
-        Đây là source code miễn phí của Chun Chun aka Dương Thị Ngọc Huyền
-        Vui lòng không xoá comment của tớ.   
-    
-        Hãy ủng hộ tớ bằng cách donate cho tớ nhé (donate là tấm lòng, bao nhiêu tớ cũng nhận :v ): 
-        Tên chủ tài khoản: Dương Thị Ngọc Huyền
-        Số tài khoản: 0362033808
-        Ngân hàng: VPBank, TPBank, Momo, ZaloPay
-
-        Hãy liên hệ với tớ nếu cậu có nhu cầu mua source code hoặc thuê tớ làm đồ án nhé, giá siêuuu ưu đãi
-        Zalo của tớ: 0362033808
-        Github của tớ: chunjiss
-       -->
 <div align=center>
   <h3 align="" font-size-"23">Where to find me? <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdlYzViYmE4NWRlNDg0M2YxNTI4ZjI4N2QzN2E3MjUxZmY4MDQ5MyZjdD1z/EDI4u70iO5nZqWBLa5/giphy.gif" width="50"></h3>
 </div>
